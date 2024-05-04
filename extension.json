@@ -1,0 +1,7 @@
+{
+  "name": "Vintergata Theme",
+  "description": "A dark and cyan theme inspired by the Milky Way. Designed to minimize eye strain and improve syntax highlighting.",
+  "version": "0.0.1",
+  "authors": ["Webhooked <hello@webhooked.dev>"],
+  "repository": "https://github.com/webhooked/vintergata-zed"
+}
